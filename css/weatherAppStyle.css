@@ -1,0 +1,20 @@
+body{
+  text-align: center;
+  background: url(http://www.easymyspace.com/myspace-image/background/stars.jpg);
+  color: white;
+  vertical-align: middle;
+  position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+.container{
+	font-size: 20px;
+	font-family: "Times New Roman", Times, serif;
+
+}
+
+.weatherCity{
+	margin: 10px;	
+}
